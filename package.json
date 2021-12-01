@@ -1,0 +1,29 @@
+{ "name": "npm-preview-tarball-fileslist-pmb",
+  "version": "0.1.0",
+  "description": "A bash script to preview which files npm would pack into its tarball.",
+  "keywords": [
+    "npm",
+    "tarball"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/npm-preview-tarball-fileslist-pmb-bash/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/npm-preview-tarball-fileslist-pmb-bash.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/npm-preview-tarball-fileslist-pmb-bash/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "bin": "ptfl.sh",
+
+  "dependencies": {},
+  "devDependencies": {},
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
